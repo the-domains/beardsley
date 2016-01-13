@@ -1,0 +1,28 @@
+name: Beardsley
+favicon: null
+layout_spectrum: 0.035328556317836046
+typography_spectrum: 0.537535329349339
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.13770333863794804
+  lightness: 0.25632089911960065
+  saturation: 0.7214677568990737
+  rhythmicContrast: 0.4208617815747857
+purpose: []
